@@ -11,7 +11,7 @@ options(scipen=999)
 # Last Updated:	5/8/2017	
 
 # Description: 
-#   Intro Kaggle Competition
+#   Intro Kaggle Competition for the titanic data
 
 # Version Notes: 
 
