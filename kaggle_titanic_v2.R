@@ -12,6 +12,7 @@ options(scipen=999)
 
 # Description: 
 #   Intro Kaggle Competition for the titanic data
+#   Trying to push change to github
 
 # Version Notes: 
 
